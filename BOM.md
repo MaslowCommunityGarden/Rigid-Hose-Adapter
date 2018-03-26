@@ -1,1 +1,1 @@
-Edit this file to add a bill of materials
+This dust collection strain relief is designed to work with [this RIDGID 2-1/2 inch hose](https://www.homedepot.com/p/RIDGID-2-1-2-in-x-7-ft-Tug-A-Long-Vacuum-Hose-for-RIDGID-Wet-Dry-Vacs-VT2520/100016791) but could probably be adapted to other hoses.
