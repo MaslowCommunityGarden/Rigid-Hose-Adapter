@@ -12,3 +12,5 @@ I had to tweak the size of the parts to get the press fit I was looking for.
 
 The original OnShape document can be found [here](https://cad.onshape.com/documents/397c123e58e75dbdff7438dd/w/b411e171416987b807e51308/e/396eaf431d1aacc70d9ab3e0)
 
+[Brendon](https://forums.maslowcnc.com/u/Brendon) created a 3-D printed version, which can be found [here](https://www.thingiverse.com/thing:2973112)
+
